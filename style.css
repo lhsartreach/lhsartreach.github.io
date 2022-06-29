@@ -688,6 +688,8 @@
     }
     #forms .form-item{
         width:100%;
+        border-left:none;
+        border-right:none;
     }
   }
   
