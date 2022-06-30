@@ -927,10 +927,6 @@
 
 #points #list{
   width:50%;
-  /* display:flex;
-  flex-direction:column;
-  justify-content:center;
-  margin:auto; */
 }
 
 #points .content h4{
@@ -941,4 +937,21 @@
 
 #points, #spreadsheet{
   margin-bottom:75px;
+}
+
+/*presentations*/
+#presentations{
+  margin-bottom:80px;
+}
+
+#presentations .container{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,2fr));
+  grid-column-gap:2.4rem;
+  grid-row-gap:1.5rem;
+}
+
+#presentations img{
+  width:100%;
+  height:auto;
 }
