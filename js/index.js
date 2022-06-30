@@ -7,7 +7,8 @@ jQuery(document).ready(function ($) {
         $('#header').addClass('header-fixed');
       } else {
         $('.back-to-top').fadeOut('slow');
-        $('#header').removeClass('header-fixed');
+        if(!$('header').hasClass('noFade'))
+          $('#header').removeClass('header-fixed');
       }
     });
     $('.back-to-top').click(function () {
