@@ -886,6 +886,11 @@
   font-size:13px;
 }
 
+#cabinet .card-body p{
+  color:#333;
+  font-size:15px;
+}
+
 #cabinet a{
   color:#333;
   text-decoration:underline;
