@@ -122,7 +122,7 @@
     border-bottom: 2px solid rgb(221, 221, 221);
   }
 
-  #header.header-fixed .nav-menu a{
+  .header-fixed .nav-menu a, .header-fixed .nav-menu #mobile-nav-toggle i{
     color:#333;
   }
   
@@ -398,6 +398,14 @@
   #mobile-nav-toggle i {
     color: #333;
   }
+
+  /* .header-fixed .nav-menu #mobile-nav-toggle i{
+    color:#fff;
+  } */
+
+  /* .header-fixed  i {
+    color: #333;
+  } */
   
   @media (max-width: 1000px) {
     #mobile-nav-toggle {
