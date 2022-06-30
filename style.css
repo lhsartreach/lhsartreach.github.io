@@ -607,6 +607,15 @@
     font-size: 14px;
   }
 
+  #about .about-the-club{
+    padding-right:50px;
+  }
+
+  @media (max-width:992px){
+    #about .about-the-club{
+      padding:30px;
+    }
+  }
   
   /*--------------------------------
     Call To Action Section
