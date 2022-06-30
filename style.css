@@ -396,7 +396,7 @@
   }
   
   #mobile-nav-toggle i {
-    color: #333;
+    color: var(--mainColor);
   }
 
   /* .header-fixed .nav-menu #mobile-nav-toggle i{
