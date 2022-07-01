@@ -955,3 +955,15 @@
   width:100%;
   height:auto;
 }
+
+@media (max-width:1000px){
+  .section-header{
+    width:80%;
+    margin:auto;
+  }
+
+  .section-header .section-title{
+    width:97%;
+    margin:auto;
+  }
+}
