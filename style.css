@@ -319,7 +319,7 @@
     margin: 0;
   }
   
-  @media (max-width: 1000px) {
+  @media (max-width: 768px) {
     #nav-menu-container {
       display: none;
     }
@@ -422,7 +422,7 @@
     color: #333;
   } */
   
-  @media (max-width: 1000px) {
+  @media (max-width: 768px) {
     #mobile-nav-toggle {
       display: inline;
     }
