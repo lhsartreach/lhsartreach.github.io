@@ -1,5 +1,4 @@
 - put meeting date and location in hero
 - insert group pic
-- insert sign in and turn in form link
 - add schedule to home page
 - add brigitte's headshot
