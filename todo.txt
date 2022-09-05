@@ -1,4 +1,1 @@
-- put meeting date and location in hero
-- insert group pic
 - add schedule to home page
-- add brigitte's headshot

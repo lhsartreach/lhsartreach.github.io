@@ -327,7 +327,7 @@
   
   /* Nav Meu Styling */
   .nav-menu a {
-    padding: 0 8px 10px 8px;
+    padding: 0 4px 10px 3px;
     text-decoration: none;
     display: inline-block;
     color: #fff;
@@ -339,7 +339,7 @@
   }
   
   .nav-menu > li {
-    margin-left: 10px;
+    margin-left: 15px;
   }
   
   .nav-menu > li > a:before {
@@ -993,4 +993,14 @@
   /* border-style:solid;
   border-width:6px;
   padding:5px; */
+}
+
+.presentation-item{
+  transition:0.35s ease-in-out;
+}
+
+.presentation-item:hover{
+  box-shadow:6px 6px 0px #333;
+  transform: translateX(-3px);
+  transform: translateY(-3px);
 }
