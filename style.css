@@ -1004,3 +1004,9 @@
   transform: translateX(-3px);
   transform: translateY(-3px);
 }
+
+.gallery-item:hover{
+  box-shadow:none;
+  transform: translateX(0px);
+  transform: translateY(0px);
+}
