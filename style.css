@@ -997,7 +997,7 @@
 
 .presentation-item{
   transition:0.35s ease-in-out;
-  aspect-ratio: 5 / 3;
+  aspect-ratio: 16 / 9;
 }
 
 .presentation-item:hover{
