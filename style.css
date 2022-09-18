@@ -997,6 +997,7 @@
 
 .presentation-item{
   transition:0.35s ease-in-out;
+  aspect-ratio: 5 / 3;
 }
 
 .presentation-item:hover{
@@ -1010,3 +1011,19 @@
   transform: translateX(0px);
   transform: translateY(0px);
 }
+
+/* .presentation-item .presentation-img{
+  width:100%;
+  height:100%;
+  background:beige;
+  background-size:cover;
+  position: relative;
+}
+
+.presentation-item .p1{
+  background: url(img/presentations/1.jpg) center center;
+}
+
+.presentation-item .p2{
+    background: url(img/presentations/2.jpg) center center;
+} */
