@@ -651,10 +651,20 @@
     background-size: cover;
   }
 
-  #forms .signup{
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(img/homePage/signup.jpg)  center center;
+  #forms .extra1{
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(img/homePage/t-shirt.webp)  center center;
     background-size: cover;
   }
+
+  #forms .extra2{
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(img/homePage/flextangles.jpeg)  center center;
+    background-size: cover;
+  }
+
+  /* #forms .signup{
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(img/homePage/signup.jpg)  center center;
+    background-size: cover;
+  } */
   
   #forms .cta-title {
     color: #fff;
@@ -704,7 +714,7 @@
   }
 
   #forms .form-item{
-    width:33.333333%;
+    width:50%;
     text-align:center;
     border-style:solid;
     border-width:1px;
