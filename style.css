@@ -661,10 +661,10 @@
     background-size: cover;
   }
 
-  /* #forms .signup{
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(img/homePage/signup.jpg)  center center;
+  #forms .signup{
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(img/homePage/apparel.png)  center center;
     background-size: cover;
-  } */
+  }
   
   #forms .cta-title {
     color: #fff;
