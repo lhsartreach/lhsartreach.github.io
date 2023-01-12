@@ -646,8 +646,8 @@
     background-size: cover;
   }
 
-  #forms .turnin{
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(img/homePage/turnin.jpg)  center center;
+  #forms .form2{
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(img/homePage/shuttlecock.jpg)  center center;
     background-size: cover;
   }
 
@@ -661,8 +661,8 @@
     background-size: cover;
   }
 
-  #forms .signup{
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(img/homePage/apparel.png)  center center;
+  #forms .form3{
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(img/homePage/corsage.jpg)  center center;
     background-size: cover;
   }
   
