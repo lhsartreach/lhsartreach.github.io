@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+
 :root{
     --mainColor:#92b1b6;
     --bgColor:#f1f1f1;
@@ -10,7 +13,7 @@
   body {
     background: #fff;
     color: #666666;
-    font-family: "Open Sans", sans-serif;
+    font-family: "poppins", sans-serif;
     transition:0.3s ease-in-out;
     overflow-x:hidden;
   }
