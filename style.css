@@ -154,7 +154,7 @@
   #hero {
     width: 100%;
     height: 100vh;
-    background: url(img/homePage/hero.jpg) top center;
+    background: url(img/homePage/signin.jpg) top center;
     background-size: cover;
     position: relative;
   }
@@ -650,7 +650,7 @@
   }
 
   #forms .signin{
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(img/homePage/signin.jpg)  center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(img/gallery/3.jpg)  center center;
     background-size: cover;
   }
 
