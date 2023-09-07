@@ -644,7 +644,7 @@
     Call To Action Section
   --------------------------------*/
   #forms {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(img/homePage/2.webp) fixed center center;
+    background: linear-gradient(rgba(118, 141, 179, 0.5), rgba(118, 141, 179, 0.5)), url(img/homePage/2.webp) fixed center center;
     background-size: cover;
     /* padding: 80px 0; */
   }
