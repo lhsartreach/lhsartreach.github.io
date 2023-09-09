@@ -650,7 +650,7 @@
   }
 
   #forms .signin{
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/gallery/3.jpg)  center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/gallery/3.jpg)  center center;
     background-size: cover;
   }
 
@@ -685,10 +685,6 @@
     font-weight: 550;
     opacity:1.0;
   }
-
-  #forms .temp-na-title {
-    opacity:0.7;
-  }
   
   #forms .cta-btn {
     font-family: "Poppins", sans-serif;
@@ -703,21 +699,10 @@
     margin: 10px;
     border: 2px solid #fff;
     color: #fff;
-    opacity:0.5;
+    opacity:1.0;
   }
   
   #forms .cta-btn:hover {
-    border: 2px solid;
-    cursor:not-allowed;
-  }
-
-  #forms #temp-allowed-btn
-  {
-    opacity:1.0;
-  }
-
-  #forms #temp-allowed-btn:hover
-  {
     background: var(--mainColor);
     border: 2px solid var(--mainColor);
     cursor:pointer;
